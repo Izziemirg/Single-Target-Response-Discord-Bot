@@ -1,1 +1,1 @@
-DISCORD_TOKEN= 'Insert Discord Token'
+DISCORD_TOKEN = 'Insert Discord Token'
